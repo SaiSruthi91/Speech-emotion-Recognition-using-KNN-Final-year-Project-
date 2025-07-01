@@ -1,7 +1,3 @@
-Perfect! Here's your updated **README with badges and a placeholder for screenshots** — this gives your GitHub repo a modern, professional appearance:
-
----
-
 # 🎙️ Speech Emotion Recognition using KNN 🔬
 
 **Full-Stack Speech Emotion Detection using Machine Learning and React**
