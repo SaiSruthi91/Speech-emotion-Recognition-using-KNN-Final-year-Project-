@@ -149,6 +149,6 @@ The system extracts relevant features from audio signals using **Mel Frequency C
 ## 📬 Contact
 
 For suggestions or queries:
-**Sai Sruthi Karnatakapu** | [LinkedIn](https://www.linkedin.com/in/saisruthi-karnatakapu)
+**Sai Sruthi Karnatakapu** | [LinkedIn] [(https://www.linkedin.com/in/saisruthikarnatakapu/)]
 **Speech Emotion Detection | Full-Stack | KNN-based Machine Learning | React Frontend | Python Backend**
 
