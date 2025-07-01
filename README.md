@@ -148,7 +148,7 @@ The system extracts relevant features from audio signals using **Mel Frequency C
 
 ## 📬 Contact
 
-**Sai Sruthi Karnatakapu**
-📧 [k.saisruthi913@gmail.com](mailto:k.saisruthi913@gmail.com)
+**Sai Sruthi Karnatakapu**  
+📧 [k.saisruthi913@gmail.com](mailto:k.saisruthi913@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/saisruthi-karnatakapu/)
-
+---
