@@ -89,11 +89,7 @@ The system extracts relevant features from audio signals using **Mel Frequency C
 | --![Output](https://github.com/user-attachments/assets/8236bda2-1db6-4164-9a97-dc230c4ebce4)
 ![WhatsApp Image 2025-06-22 at 14 31 23_9d2d3f71](https://github.com/user-attachments/assets/143b647a-f32f-4041-ab3b-a3fe7830d8d1)
 
---------------- | --------------------- |
-| *Add Screenshot Here* | *Add Screenshot Here* |
-
-*You can add screenshots of your web interface after running the project.*
-
+| --------------- | --------------------- |
 ---
 
 ## 🔍 Features
